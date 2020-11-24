@@ -1,0 +1,13 @@
+C:\Users\ashor\source\repos\CompuCritter\CompuCritter\bin\Debug\netcoreapp3.1\CompuCritter.exe
+C:\Users\ashor\source\repos\CompuCritter\CompuCritter\bin\Debug\netcoreapp3.1\CompuCritter.deps.json
+C:\Users\ashor\source\repos\CompuCritter\CompuCritter\bin\Debug\netcoreapp3.1\CompuCritter.runtimeconfig.json
+C:\Users\ashor\source\repos\CompuCritter\CompuCritter\bin\Debug\netcoreapp3.1\CompuCritter.runtimeconfig.dev.json
+C:\Users\ashor\source\repos\CompuCritter\CompuCritter\bin\Debug\netcoreapp3.1\CompuCritter.dll
+C:\Users\ashor\source\repos\CompuCritter\CompuCritter\bin\Debug\netcoreapp3.1\CompuCritter.pdb
+C:\Users\ashor\source\repos\CompuCritter\CompuCritter\obj\Debug\netcoreapp3.1\CompuCritter.csprojAssemblyReference.cache
+C:\Users\ashor\source\repos\CompuCritter\CompuCritter\obj\Debug\netcoreapp3.1\CompuCritter.AssemblyInfoInputs.cache
+C:\Users\ashor\source\repos\CompuCritter\CompuCritter\obj\Debug\netcoreapp3.1\CompuCritter.AssemblyInfo.cs
+C:\Users\ashor\source\repos\CompuCritter\CompuCritter\obj\Debug\netcoreapp3.1\CompuCritter.csproj.CoreCompileInputs.cache
+C:\Users\ashor\source\repos\CompuCritter\CompuCritter\obj\Debug\netcoreapp3.1\CompuCritter.dll
+C:\Users\ashor\source\repos\CompuCritter\CompuCritter\obj\Debug\netcoreapp3.1\CompuCritter.pdb
+C:\Users\ashor\source\repos\CompuCritter\CompuCritter\obj\Debug\netcoreapp3.1\CompuCritter.genruntimeconfig.cache
